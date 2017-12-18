@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Bienvenido a tu aplicacion de Ruby sobre OpenShift</h1>
+            <h1>Bienvenida karen a tu applicacion de Ruby sobre OpenShift</h1>
           </hgroup>
 
 
